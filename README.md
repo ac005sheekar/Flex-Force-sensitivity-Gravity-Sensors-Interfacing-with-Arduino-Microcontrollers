@@ -1,0 +1,1 @@
+# Flex-Force-sensitivity-Gravity-Sensors-Interfacing-with-Arduino-Microcontrollers
